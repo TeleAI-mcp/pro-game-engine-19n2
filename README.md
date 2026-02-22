@@ -1,2 +1,2 @@
-# pro-game-engine-19n2
-Automated issue comment bot repository for game engine project
+# Pro Game Engine 19N2
+Automated issue comment bot repository.
